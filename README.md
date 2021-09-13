@@ -12,6 +12,4 @@ Customizations:
   - Now you can shut down again and re-install all harware, this way you will have the bios properlly flashed and will be able to enter it as many times as required.
 
 The Platfoem Info had been randonly re-generated, you will need to find your own.
-You can use ProperTree or OC Auxiliary Tools for exaple in order to edit the config file
-https://github.com/corpnewt/ProperTree.git
-https://github.com/ic005k/QtOpenCoreConfig/releases
+For example in order to edit the config file you can use either ProperTree https://github.com/corpnewt/ProperTree.git or OC Auxiliary Tools https://github.com/ic005k/QtOpenCoreConfig/releases
