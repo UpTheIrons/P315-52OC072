@@ -10,3 +10,8 @@ Customizations:
   - Proceed with the bios upgrade under windows.
   - Enter the bios and set back AHCI (required to be able to boot ubuntu or Mac).
   - Now you can shut down again and re-install all harware, this way you will have the bios properlly flashed and will be able to enter it as many times as required.
+
+The Platfoem Info had been randonly re-generated, you will need to find your own.
+You can use ProperTree or OC Auxiliary Tools for exaple in order to edit the config file
+https://github.com/corpnewt/ProperTree.git
+https://github.com/ic005k/QtOpenCoreConfig/releases
